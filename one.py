@@ -9,17 +9,18 @@ i = 10
 # print (print)
 
 
-print (i)
+#print (i)
 
 #variable can be reassigned
 i = 20
 
-print (i)
+#print (i)
 
 # In python, it can be reassigned to a diff type - int to string
 i = "Whatever"
 
-print (i)
+#print (i)
+print "abce"
 
 
 #Wanna learn more about print in detail - format, add, sep and end
